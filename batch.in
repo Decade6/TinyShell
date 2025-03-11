@@ -1,0 +1,4 @@
+ls -l
+echo "Hello world, TinyShell!"
+pwd; whoami; ;
+quit; echo "Bye bye"
